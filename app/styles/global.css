@@ -1,0 +1,12 @@
+div.full-height {
+  height: 100%;
+}
+
+div.full-height div.card:hover {
+  background-color: "#fe6c5c";
+}
+
+div.full-height div.mantine-Paper-root:hover div.mantine-Breadcrumbs-breadcrumb,
+div.full-height div.mantine-Paper-root:hover div.mantine-Text-root {
+  color: "#000000";
+}
